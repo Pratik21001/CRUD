@@ -1,0 +1,30 @@
+{
+  "employee": [
+    {
+      "id": 1,
+      "name": "Pratik",
+      "email": "prat@123.com",
+      "phone": "9893329325"
+    },
+    {
+      "id": 2,
+      "name": "akansh",
+      "email": "akansh121@test.com",
+      "phone": "563826282"
+    },
+    {
+      "name": "amol",
+      "email": "amol23@yahoo.com",
+      "phone": "8777653219",
+      "active": true,
+      "id": 3
+    },
+    {
+      "name": "adarsh",
+      "email": "ad32@test.com",
+      "phone": "45367281",
+      "active": true,
+      "id": 4
+    }
+  ]
+}
